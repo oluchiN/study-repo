@@ -1,3 +1,3 @@
 # Study
 
-Path way for learning.
+Path way for learning and more!
